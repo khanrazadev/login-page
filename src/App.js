@@ -1,11 +1,17 @@
 
 
-import Home from './components/Home';
+import VerifyPhoneOrEmail from './components/VerifyPhoneOrEmail';
+
+
+
+
+
 function App() {
   return (
     <div className="App">
-      <Home/>
+      <VerifyPhoneOrEmail/>
       
+     
     
     </div>
   );

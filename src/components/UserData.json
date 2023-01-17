@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Shivam Gupta",
+      "phone": "9960666070",
+      "email": "raza@abc.com",
+      "profile_picture": "https://images.unsplash.com/photo-1599184931217-5c8e5d5e5f5d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE1NDM5NX0"
+    },
+    {
+      "id": 2,
+      "name": "Yash Bhagat",
+      "phone": "+0987654321",
+      "email": "janesmith@example.com",
+      "profile_picture": "https://images.unsplash.com/photo-1599184931217-5c8e5d5e5f5d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE1NDM5NX0"
+    }
+  ]
